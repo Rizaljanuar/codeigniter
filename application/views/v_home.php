@@ -6,7 +6,7 @@
                 <div class="col-12">
                     <!-- Hero Content -->
                     <div class="hero-content text-center">
-                        <h2>Social Distancing</h2>
+                        <h2>DiRumahAja</h2>
                     </div>
                 </div>
             </div>
